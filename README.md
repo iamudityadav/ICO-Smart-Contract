@@ -1,5 +1,5 @@
 # ICO-Smart-Contract
-ICO smart contract to sell tokens in three phases
+
 
 
 ICO to sell MyToken(MTK) tokens in three phase manner.
